@@ -4,6 +4,7 @@ The system get all books from a text file.
 
 ###### BOOK APP MENU ######
 1 - Search for a specific book by title
+
 2 - Search for a specific book by author name
 3 - List all books by title
 4 - List all books by author
