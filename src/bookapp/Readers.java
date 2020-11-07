@@ -62,6 +62,10 @@ public class Readers {
         this.address = address;
     }
     
+    @Override
+    public String toString(){
+        return "# READER # ID: "+getId()+", Name: "+name+", Address: "+getAddress()+"\n";
+    }
     
     
 }

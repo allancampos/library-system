@@ -1,7 +1,20 @@
-1,A Game of Thrones,George R. R. Martin,1996
-2,A Clash of Kings,George R. R. Martin,1998
-3,A Storm of Swords,George R. R. Martin,2000
-4,A Feast for Crows,George R. R. Martin,2005
-5,A Dance with Dragons,George R. R. Martin,2011
-6,The Glass Hotel,Emily St. John Mandel,2020
-7,The Vanishing Half,Britt Bennett,2020
+1,The History of Tom Jones,Henry Fielding,1749
+2,Pride and Prejudice,Jane Austen,1813
+3,Long Bright River,Liz Moore,2020
+4,A Game of Thrones,George R. R. Martin,1996
+5,Topics of Conversation,Miranda Popkey,2020
+6,Darling Rose Gold,Stephanie Wrobel,2020
+7,Recollections of My Nonexistence,Rebecca Solnit,2020
+8,A Long Petal of the Sea,Isabel Allende,2020
+9,Writers & Lovers,Lily King,2020
+10,It's Not All Downhill From Here,Terry McMillan,2020
+11,The Mercies,Kiran Millwood,2020
+12,Weather,Jenny Offill,2020
+13,Dreamland,Nancy Bilyeau,2020
+14,Such a Fun Age,Kiley Reid,2020
+15,Little Gods,Meng Jin,2020
+16,My Dark Vanessa,Kate Elizabeth,2020
+17,Twilight,Stephenie Meyer,2005
+18,Circle,Tayari Jones,2018
+19,Mars Club,Rachel Kushner,2018
+20,A Dance with Dragons,George R. R. Martin,2011

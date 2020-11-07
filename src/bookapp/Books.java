@@ -22,6 +22,15 @@ public class Books {
         this.year = year;
     }
     
+    @Override
+    public boolean equals(Object ref) { 		
+        Books b = (Books) ref;  		
+        if ((this.id == b.id) && (this.title.equalsIgnoreCase(b.title))&& (this.author.equalsIgnoreCase(b.author))) { 
+            return true; 		
+        } else { 			
+            return false; 		
+        } 	
+    }
    
 
     /**
@@ -82,8 +91,9 @@ public class Books {
     
      @Override
     public String toString(){
-        return "# BOOK # \nID: "+getId()+", Title: "+getTitle()+", Author: "+getAuthor()+", Year: "+getYear();
+        return "# BOOK # ID: "+getId()+", Title: "+getTitle()+", Author: "+getAuthor()+", Year: "+getYear()+"\n";
     }
+    
     
     
 }
